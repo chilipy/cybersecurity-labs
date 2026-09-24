@@ -1,0 +1,26 @@
+[
+    {
+        "event": "login",
+        "user": "ivan_user",
+        "result": "success",
+        "timestamp": "2026-09-25 02:28:33",
+        "args": [
+            "ivan_user",
+            "StrongPass123",
+            "C:\\Users\\Acer\\PycharmProjects\\cybersecurity-labs\\cybersecurity-labs\\labs\\lab01\\data\\users.csv"
+        ],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "ivan_user",
+        "result": "failure",
+        "timestamp": "2026-09-25 02:28:33",
+        "args": [
+            "ivan_user",
+            "WrongPassword!",
+            "C:\\Users\\Acer\\PycharmProjects\\cybersecurity-labs\\cybersecurity-labs\\labs\\lab01\\data\\users.csv"
+        ],
+        "kwargs": {}
+    }
+]
